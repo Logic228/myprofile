@@ -2,7 +2,7 @@ body{
 background-image:url(images/pexkis.jpg);
 background-size: cover;
 }
-div,h1{
+div{
     border: 1px solid rgb(77, 77, 110);
     background-color: rgb(77, 77, 110);
     margin: 75px;
@@ -29,4 +29,11 @@ div,h1{
     padding: 10px;
     text-align: center;
     color: white;  
+}
+h1{
+    text-align: center;
+    color:maroon;
+    font:oblique;
+    font-style: italic;
+    font-size: 47px;
 }
