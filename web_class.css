@@ -1,23 +1,32 @@
 body{
-background-image:url(images/backpic.jpeg);
+background-image:url(images/pexkis.jpg);
 background-size: cover;
 }
 div,h1{
-    border: 1px solid rgb(200, 200, 247);
-    background-color: rgb(200, 200, 247);
+    border: 1px solid rgb(77, 77, 110);
+    background-color: rgb(77, 77, 110);
     margin: 75px;
     font: oblique;
     font-style: italic;
     display: block;
+    color:whitesmoke;
 
 }
 .links{
     text-decoration: none;
     display: block;
-    box-shadow: 10px 10px rgb(30, 32, 131);
+    box-shadow: 10px 10px rgb(53, 53, 82);
     margin: 16px;
     padding: 10px;
-    background-color: rgb(241, 185, 185);
-    color:black;
+    background-color: rgb(75, 50, 50);
+    color:whitesmoke;
     font-weight: bold;
+}
+#icon{
+    background-color: rgb(77, 77, 110);
+    border: 1px solid rgb(77, 77, 110);
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    color: white;  
 }
